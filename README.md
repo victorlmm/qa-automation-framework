@@ -1,6 +1,6 @@
 # QA Automation Framework · Python + Playwright + AI Triage
 
-![Tests](https://github.com/<your-user>/qa-automation-framework/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/victorlmm/qa-automation-framework/actions/workflows/tests.yml/badge.svg)
 
 A test automation framework for [automationexercise.com](https://automationexercise.com) that covers **UI, API and cross-layer integration** testing, runs in **CI on every push**, and uses **Claude (Anthropic) to triage failures automatically**.
 
